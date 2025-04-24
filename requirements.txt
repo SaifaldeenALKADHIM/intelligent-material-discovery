@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+shap
+xgboost
+lightgbm
+mp-api
